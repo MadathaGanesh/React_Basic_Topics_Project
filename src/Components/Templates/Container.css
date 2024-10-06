@@ -1,0 +1,10 @@
+.BoxContainer{
+    height: 20px;
+    width: 250px;
+    box-shadow: 20px tomato;
+    background-color: yellow;
+    border-radius: 5px;
+    color: green;
+    border-color: blue;
+    border-width: 20px;
+}
